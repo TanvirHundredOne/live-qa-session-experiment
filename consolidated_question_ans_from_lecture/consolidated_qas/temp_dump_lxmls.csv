@@ -1,0 +1,27 @@
+lecture_number,playlist_index,title,url,method,qa_start,evidence
+6,6,Talk: 2050: An AI Odyssey: Dark Matter of Intelligence (Yejin Choi),https://www.youtube.com/watch?v=T-YCMWvYc7M,description,,3500s: Questions
+6,10,"Lecture 6: Causality and its Role in Reasoning, Explainability, and Generalizability (Adèle Ribeiro)",https://www.youtube.com/watch?v=VA8vzmfnhyk,description,,8419s: Questions and discussion
+2,2,Lecture 2: Introduction to Neural Networks (Bhiksha Raj),https://www.youtube.com/watch?v=4n8we09XKDs,description,,9692s: Q&A and concluding remarks
+3,3,Lecture 3: Introduction to Sequence Models (Noah Smith),https://www.youtube.com/watch?v=G1F-uy-Obqk,description,,4907s: Q&A and training data
+4,4,Talk: Musings on Direct Preference Optimization (Kyunghyun Cho),https://www.youtube.com/watch?v=YMyO_S-O6yQ,description,,2542s: Q&A and closing discussion
+5,6,Lecture 5: Vision and Language (Desmond Elliott),https://www.youtube.com/watch?v=7rWEugh6jLE,description,,9431s: Conclusion and Q&A
+3,8,Lecture 3: Introduction to Sequence Models (Noah Smith),https://www.youtube.com/watch?v=G1F-uy-Obqk,description,,4907s: Q&A and training data
+9,9,"Talk: Multimodal Generative Models, Unification, Planning and Evaluation (Mohit Bansal)",https://www.youtube.com/watch?v=GaqtcGrVqZU,description,,3306s: Conclusion and Q&A
+10,10,Talk: Musings on Direct Preference Optimization (Kyunghyun Cho),https://www.youtube.com/watch?v=YMyO_S-O6yQ,description,,2542s: Q&A and closing discussion
+11,11,Talk: Structured State Space Models for Deep Sequence Modeling (Albert Gu),https://www.youtube.com/watch?v=WC9tqkCpq4s,description,,3888s: Q&A session
+3,3,Talk: Reality Checks (Kyunghyun Cho),https://www.youtube.com/watch?v=__71ttgQagY,description,,3248s: Q&A session
+6,6,Talk: Rethinking Test-Time Scaling Laws (Beidi Chen),https://www.youtube.com/watch?v=ZaaVh_I0cPg,description,,2694s: Q&A session
+2,4,Lecture 2: Introduction to Neural Networks (Bhiksha Raj),https://www.youtube.com/watch?v=0b2FgoKbB0Q,description,,3931s: Break and Q&A
+5,5,Practical Talk 2: Graph Neural Networks in NLP (Ivan Titov),https://www.youtube.com/watch?v=Lnl5MMIa-Cs,description,,1928s: Questions
+3,6,Lecture 3: Sequence Models (Noah Smith),https://www.youtube.com/watch?v=e8TVif1zTbc,description,,1510s: Questions
+11,11,Practical Talk 5: Question Answering and Generation for Evaluating Summarization (Kyunghyun Cho),https://www.youtube.com/watch?v=F9V1t1RULb4,transcript,0:58:10,there's a question from Ivan did you resore some of the SOA models using this new methods
+6,12,Lecture 6: Causality (Jonas Peters) - Part 1,https://www.youtube.com/watch?v=Mz0C1h7vHTo,transcript,0:26:56,we have a question from a student from zwayun uh asking if you could go back to the two variable example
+6,13,Lecture 6: Causality (Jonas Peters) - Part 2,https://www.youtube.com/watch?v=leK02khzdyM,description,,2019s: Q&A and conceptual clarity
+6,14,Lecture 6: Causality (Jonas Peters) - Part 3,https://www.youtube.com/watch?v=cH5_nIM9ql0,description,,462s: Questions
+17,17,Practical Talk 8: Processing Spoken Language (Mari Ostendorf),https://www.youtube.com/watch?v=-SOawJCxWyw,transcript,0:54:03,i'm wondering if there are corpus dedicated to samples where prosody is critical
+5,5,"PRACTICAL TALK: SMALLER, FASTER, DEEPER: UNIV. EDINBURGH MT SUBMITTION TO WMT 2017 (ALEXANDRA BIRCH)",https://www.youtube.com/watch?v=iB_YfX4bFw0,description,,2862s: Questions
+4,8,LECTURE 4: SYNTAX AND PARSING (YOAV GOLDBERG),https://www.youtube.com/watch?v=85jixvhCOQw,description,,9297s: Conclusion and Q&A
+4,4,Practical Talk: Adapters In Transformers. A New Paradigm For Transfer Learning?,https://www.youtube.com/watch?v=Hp5wBKeEDyY,description,,2824s: Technical Questions
+7,7,Practical Talk: How Can We Know What And When Language Models Know? (Graham Neubig),https://www.youtube.com/watch?v=Oh2StnRQ3qE,transcript,0:26:00,oh that's a great question and in fact um many of the relations in here are actually one-to-many relations
+9,9,Practical Talk: Is scale all we need? (Slav Petrov),https://www.youtube.com/watch?v=yoE1W4k9wjY,description,,2935s: QA
+13,13,Practical Talk: Exploiting Structure for More Efficient NLP (Sasha Rush),https://www.youtube.com/watch?v=q7PreYCHe_w,description,,"1904s: Questions, 3167s: QA"

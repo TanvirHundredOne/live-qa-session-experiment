@@ -1,0 +1,9 @@
+lecture_number,playlist_index,title,url,method,qa_start,evidence
+1,1,Lecture 01 - The Learning Problem,https://www.youtube.com/watch?v=mbyG85GZ0PI,description,,3340s: Q&A session
+2,2,Lecture 02 - Is Learning Feasible?,https://www.youtube.com/watch?v=MEG35RDD7RA,description,,3433s: Q&A session
+3,3,Lecture 03 -The Linear Model I,https://www.youtube.com/watch?v=FIbVs5GbBlQ,description,,3545s: Q&A and next steps
+4,4,Lecture 04 - Error and Noise,https://www.youtube.com/watch?v=L_0efNkdGMc,description,,3559s: Q&A session
+7,7,Lecture 07 - The VC Dimension,https://www.youtube.com/watch?v=Dc0sr0kdBVI,description,,3930s: Questions and answers
+8,8,Lecture 08 - Bias-Variance Tradeoff,https://www.youtube.com/watch?v=zrEyxfl2-a8,description,,3672s: Q&A session
+10,10,Lecture 10 - Neural Networks,https://www.youtube.com/watch?v=Ih5Mr93E-2c,description,,3918s: Q&A session
+13,13,Lecture 13 - Validation,https://www.youtube.com/watch?v=o7zzaKd0Lkk,description,,4115s: Questions and answers

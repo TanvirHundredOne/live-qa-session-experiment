@@ -1,0 +1,5 @@
+lecture_number,playlist_index,title,url,method,qa_start,evidence
+2,6,"CS50 2012 - Week 2, continued",https://www.youtube.com/watch?v=wRMsnT6QDEA,description,,2922s: Questions
+2,2,CS50x 2026 - Section 2 - Arrays,https://www.youtube.com/watch?v=ZlJuiMNrzBQ,transcript,0:15:59,"OK, what if you don't know the size of the array and want it to be updated by user input? That's a great question."
+4,4,CS50x 2026 - Section 4 - Memory,https://www.youtube.com/watch?v=Gjf0L3mkVtY,transcript,0:15:53,"Someone asks, why would you use this um if you could set the value directly."
+1,4,Week 1: Wednesday - CS50 2007 - Harvard University,https://www.youtube.com/watch?v=qpJ1aphHP-g,description,,1005s: QA

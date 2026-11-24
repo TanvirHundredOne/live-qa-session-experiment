@@ -1,0 +1,68 @@
+{
+ "fallback:MKiRte-tnMY": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:Hi8r_63LGyg": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:PUJ_XdmSDZw": {
+  "has_qa": true,
+  "evidence": "2175s: Audience Q&A",
+  "method": "description",
+  "qa_start": ""
+ },
+ "fallback:Wc4aorVPbi8": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:zg6YRqT4Duo": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:3DKo219ZHMw": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:axUgEAgrSB8": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:0TOK73ij7C0": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:cI6tt9QfRdo": {
+  "has_qa": false,
+  "evidence": "non-English video skipped",
+  "method": "non_english",
+  "qa_start": ""
+ },
+ "fallback:txaGsawljjA": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ },
+ "fallback:VW3vgJYYIok": {
+  "has_qa": false,
+  "evidence": "none",
+  "method": "fallback",
+  "qa_start": ""
+ }
+}

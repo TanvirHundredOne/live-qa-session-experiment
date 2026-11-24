@@ -1,0 +1,19 @@
+lecture_number,playlist_index,title,url,method,qa_start,evidence
+1,1,Khipu 2019: Jeff Dean on 'AI for social good' session (talk 1/5),https://www.youtube.com/watch?v=ytEVMYy5aP8,description,,847s: Questions
+3,3,Khipu 2019 Sponsor talk: DeepMind,https://www.youtube.com/watch?v=x_WNqQmZk00,description,,"542s: Questions, 882s: Question answering"
+4,4,Khipu 2019 Sponsor talk: Asapp,https://www.youtube.com/watch?v=GoTlDe5XmK0,description,,785s: questions
+1,1,Khipu 2019 Keynote talk by Guillermo Sapiro: ML in Developmental Health,https://www.youtube.com/watch?v=KOK1-kmMk1E,description,,3221s: Questions
+2,2,Khipu 2019 talk by Luciana Ferrer: Machine Learning Fundamentals,https://www.youtube.com/watch?v=mLmFhC2WsC8,description,,3409s: Questions
+5,5,Khipu 2019 talk by Juan Carlos Niebles: Convolutional Neural Networks II,https://www.youtube.com/watch?v=M7hbxCVNlVk,transcript,0:56:11,so my question is that if you are maybe doing some research or you think it's important to also add to this model this total feedback or maybe we can just understand the videos using just button up pr
+8,8,Khipu 2019 talk by Yoshua Bengio: Perspectives on AI,https://www.youtube.com/watch?v=xhLPUMxB5i8,description,,1498s: Questions
+11,11,Khipu 2019 talk by Chelsea Finn: Robotics and Continuous Control,https://www.youtube.com/watch?v=a8edFgaTs6s,transcript,1:00:38,there's a question over there hello thanks for your presentation so the question is
+16,16,Khipu 2019 talk by Oriol Vinyals: Recent Advances in Deep Reinforcement Learning,https://www.youtube.com/watch?v=cBMjS6p2k44,transcript,1:04:08,the question is about fairness and you mentioned the number of movements
+17,17,Khipu 2019 talk by Bianca Zadrozny: Machine Learning for Subsurface Characterization.,https://www.youtube.com/watch?v=wZa1O-Zd0fU,description,,2797s: Questions
+1,1,Khipu 2023: Latin American Meeting In Artificial Intelligence [Day 1],https://www.youtube.com/watch?v=8s78UMK_jdI,description,,5368s: Q&A: Evaluation
+2,2,Khipu 2023: Latin American Meeting In Artificial Intelligence [Day 2],https://www.youtube.com/watch?v=HcJBe3AmzhA,description,,3128s: Q&A session
+3,3,Khipu 2023: Latin American Meeting In Artificial Intelligence [Day 3],https://www.youtube.com/watch?v=lVxTXyK4BvI,description,,3535s: Resources and Q&A
+4,4,Khipu 2023: Latin American Meeting In Artificial Intelligence [Day 4],https://www.youtube.com/watch?v=kd3l4pvc7b4,description,,2818s: Q&A Session
+1,1,"KHIPU 2025: Day 1, Monday, March 10th",https://www.youtube.com/watch?v=pB5cCB7nFG0,description,,15078s: Q&A and closing
+2,2,"KHIPU 2025: Day 2, Tuesday, March 11th",https://www.youtube.com/watch?v=ZZVXGcKQc_4,description,,4425s: Q&A session
+3,3,"KHIPU 2025: Day 3, Wednesday, March 12th",https://www.youtube.com/watch?v=s9VJv0GQExo,description,,6296s: Q&A and concluding remarks
+15,15,khipu 09 03 08,https://www.youtube.com/watch?v=QAs3Oi2oBjg,transcript,0:24:59,my question is well like you're choosing like an initial set of policies... very good question yes very good question yes
